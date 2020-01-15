@@ -99,7 +99,37 @@ MD5sum: cdffd2a6a63d4d6b4a0e4fd75917703d
 SHA1: 3af6e8bd5eb6186808e450239e1dadaf6671a488
 SHA256: 7cb0d9e0ea06a2bc543d891a49958fff4eddc08fa7d6cce9dd37c0befe74f138
 Section: Tweaks
-Description: FloatingDockPlus13 (Cracked) for iOS 13
+Description: FloatingDockPlus13 (Cracked) for iOS 13 only
 Author: iOSPirate
 Name: FloatingDockPlus13 (Cracked)
+
+Package: com.pulandres.siliquapro
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/SiliquaPro.deb
+Size: 91732
+MD5sum: db13f050cd90491a0fbb1ee73dfa826e
+SHA1: 57af27ac7ccd741e78b4e527a58f09912d6f6456
+SHA256: 0a853158225c88b5bf212260633c482055626f46301c9928d2864b0471320b0b
+Section: Tweaks
+Description: Siliqua Pro (Cracked) for iOS 11-13
+Author: iOSPirate
+Name: Siliqua Pro (Cracked)
+
+Package: com.pulandres.colorbanners3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/ColorBanners3.deb
+Size: 240082
+MD5sum: 50c40e91c312ea0f1a7b44825f60d20a
+SHA1: 9ed2b80e96fda2ba6d6bb93e2dac66e4d659b147
+SHA256: 3f396472c14a1b8dfe4856a6a380d765969eb78497a75fd684008516b7cdc2ae
+Section: Tweaks
+Description: ColorBanners 3 (Cracked) for iOS 13 only
+Author: iOSPirate
+Name: ColorBanners 3 (Cracked)
 
