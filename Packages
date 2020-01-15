@@ -73,3 +73,18 @@ Description: Noctis Neo (Cracked) for iOS 11-13
 Author: iOSPirate
 Name: Noctis Neo (Cracked)
 
+Package: com.julioverne.spotilife
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Spotify++.deb
+Size: 197878
+MD5sum: 83d2adf2fdec9842a4ab23116ccad44a
+SHA1: 948df79f88c5bd45b189534f3dbdb491452b01a4
+SHA256: 050ef72c0922a93dc57650695f30241d8ff68398ad719102bff72ffc46b5317e
+Section: Tweaks
+Description: Spotify++ (Cracked) for iOS 7-13
+Author: iOSPirate & julioverne
+Name: Spotify++ (Cracked)
+
