@@ -133,3 +133,18 @@ Description: ColorBanners 3 (Cracked) for iOS 13 only
 Author: iOSPirate
 Name: ColorBanners 3 (Cracked)
 
+Package: com.pulandres.ecl12
+Version: 6.1.2-2
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Eclipse12.deb
+Size: 692918
+MD5sum: ded48dc4aa11dc1d8766104fd7e018d7
+SHA1: 438fed7bc73c7042c10ea567abf071bcccbd46ba
+SHA256: 89b8a48f612a642a69264e34cf5c38b82c627ca10f42212638e2cd1a94e18e9e
+Section: Tweaks
+Description: Eclipse12 Darkmode (Cracked) for iOS 12 only
+Author: iOSPirate
+Name: Eclipse12 (Cracked)
+
