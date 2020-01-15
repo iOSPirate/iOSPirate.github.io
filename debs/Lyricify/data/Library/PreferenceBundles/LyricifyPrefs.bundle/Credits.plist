@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+		<dict>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>Conor - Development</string>
+            <key>user</key>
+            <string>ConorTheDev</string>
+        </dict>
+		<dict>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>Even - Optimisations</string>
+            <key>user</key>
+            <string>even_dev</string>
+        </dict>
+		<dict>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>Tr1F3cta - Codebase Improvements</string>
+            <key>user</key>
+            <string>FectaTr1</string>
+        </dict>
+		<dict>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>Rango - Tweak Icon</string>
+            <key>user</key>
+            <string>Yung_Specht</string>
+        </dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Other</string>
+			<key>footerText</key>
+			<string>I would also like to thank the api.ksoft.si team for letting me use their API to get lyrics outside of Apple Music!</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Credits</string>
+</dict>
+</plist>

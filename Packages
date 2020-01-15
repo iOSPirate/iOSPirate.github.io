@@ -43,3 +43,18 @@ Description: Bazzi 2 (Cracked) for iOS 11-13
 Author: iOSPirate
 Name: Bazzi 2 (Cracked)
 
+Package: com.pulandres.lyricify
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Lyricify.deb
+Size: 298420
+MD5sum: ea2fe637d1b680f28b04e76d26e8d9f1
+SHA1: dd34b43f2c96e401163d2e401138bb958fca46f4
+SHA256: 0d1eb94ff1a4b0fa16cd8ab3a94194521ddd81c316f265671d1c9b0448e1d12d
+Section: Tweaks
+Description: Lyricify (Cracked) for iOS 11-13
+Author: iOSPirate
+Name: Lyricify (Cracked)
+
