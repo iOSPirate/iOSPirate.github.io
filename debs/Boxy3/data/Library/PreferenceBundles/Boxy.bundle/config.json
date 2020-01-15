@@ -1,0 +1,156 @@
+{
+	"configurations": [
+		{
+			"name" : "Current Custom",
+			"value" : -1,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":42.0,
+					"top_inset":65.0
+				}
+		},
+		{
+			"name" : "Default Box",
+			"value" : 0,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":42.0,
+					"top_inset":65.0
+				}
+		},
+
+		{
+			"name" : "Center Spread",
+			"value" : 1,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":25.0,
+					"vertical_padding":-14.0,
+					"side_inset":3.0,
+					"top_inset":70.0
+				}
+		},
+
+		{
+			"name" : "Even Spread",
+			"value": 2,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":25.0,
+					"vertical_padding":20.0,
+					"side_inset":3.0,
+					"top_inset":10.0
+				}
+		},
+
+		{
+			"name" : "Top Left",
+			"value": 3,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":3.0,
+					"top_inset":5.0
+				}
+		},
+
+		{
+			"name" : "Top Center",
+			"value": 4,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":42.0,
+					"top_inset":5.0
+				}
+		},
+
+		{
+			"name" : "Top Right",
+			"value": 5,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":76.0,
+					"top_inset":5.0
+				}
+		},
+
+		{
+			"name" : "Bottom Right",
+			"value": 6,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":76.0,
+					"top_inset":150.0
+				}
+		},
+		{
+			"name" : "Bottom Center",
+			"value": 7,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":-14.0,
+					"side_inset":42.0,
+					"top_inset":150.0
+				}
+		},
+		{
+			"name" : "Bottom Left",
+			"value": 8,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":7.0,
+					"vertical_padding":-8.0,
+					"side_inset":60.0,
+					"top_inset":150.0
+				}
+		},
+		{
+			"name" : "Bottom Half",
+			"value": 9,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":0.0,
+					"vertical_padding":24.0,
+					"side_inset":3.0,
+					"top_inset":150.0
+				}
+		},
+			{
+			"name" : "Top Half",
+			"value": 10,
+			"configurable": 0,
+			"configuration" : 
+				{
+					"horizontal_padding":24.0,
+					"vertical_padding":-14.0,
+					"side_inset":3.0,
+					"top_inset":5.0
+				}
+		},
+
+	]
+
+}

@@ -163,7 +163,7 @@ Description: ColorBanners 2 (Cracked) for iOS 12 only
 Author: iOSPirate
 Name: ColorBanners 2 (Cracked)
 
-Package: me.pulandres.colorbanners2
+Package: com.pulandres.callbarxs
 Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: iOSPirate
@@ -177,5 +177,35 @@ Section: Tweaks
 Description: Callbar XS (Cracked) for iOS 12-13
 Author: iOSPirate
 Name: Callbar XS (Cracked)
+
+Package: com.pulandres.boxy3
+Version: 3.6.2
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Boxy3.deb
+Size: 2798974
+MD5sum: 7a22fe5792844889c0ee6939f70026de
+SHA1: f5cc8212fc15fcf19992754a9d1f8e8da95143b0
+SHA256: 474743dd177bf768a859ccf64d8f2df03495909f64d2aee79f4d019e0e5acc74
+Section: Tweaks
+Description: Boxy 3 (Cracked) for iOS 11-12
+Author: iOSPirate
+Name: Boxy 3 (Cracked)
+
+Package: com.pulandres.boxy4
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Boxy4.deb
+Size: 2828322
+MD5sum: 5a0ca28346a10b80b0543c96726398b9
+SHA1: 18e0b2570224e39ce4896de1f1d9306d3bfc4a14
+SHA256: 3fdc68175ff9d5042d14749e7243a3beed3e86c7a0b6ede5f185b755dba460ce
+Section: Tweaks
+Description: Boxy 3 (Cracked) for iOS 13
+Author: iOSPirate
+Name: Boxy 4 (Cracked)
 
 
