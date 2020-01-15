@@ -1,0 +1,45 @@
+Package: com.pulandres.bazzi
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Bazzi.deb
+Size: 56722
+MD5sum: 9521582e5c57d1fc1a108885783fc048
+SHA1: 6f3aa5febecc6a6811b387b42cfc4aa5f7b45aeb
+SHA256: 7f11188463a7854db614e8685225c04bc20a0969622f2f9143c76a7c9f006e98
+Section: Tweaks
+Description: Bazzi 1 (Cracked) for iOS 11-13
+Author: iOSPirate
+Name: Bazzi 1 (Cracked)
+
+Package: sedfix
+Version: 7.0
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: mobilesubstrate
+Filename: /debs/Sedfix.deb
+Size: 143862
+MD5sum: 45e4bae1cf62a8705f1318fbb6faf2e3
+SHA1: 22e0f2446cec113b7ef0af816fe4573d31eeb79d
+SHA256: f08c422479e54d95d558396b8af8aa3f56786194b8856db5ed63e594c2eb1269
+Section: System
+Description: This package makes cracked tweaks work.
+Author: iOSPirate
+Name: Sedfix
+
+Package: com.pulandres.bazzi2
+Version: 2.0.8
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/Bazzi2.deb
+Size: 64020
+MD5sum: a4994252389a5aeb22912a0da241fbe1
+SHA1: bc4e04fce82c3da16d93d4cb144b06445484d1b8
+SHA256: 6d77cee507241b963cbab9af72eaf315734207f7edc77a733e8b2f23f0192343
+Section: Tweaks
+Description: Bazzi 2 (Cracked) for iOS 11-13
+Author: iOSPirate
+Name: Bazzi 2 (Cracked)
+
