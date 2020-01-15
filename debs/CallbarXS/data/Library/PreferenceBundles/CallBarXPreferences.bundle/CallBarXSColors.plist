@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>overrideBackgroundColor</string>
+			<key>label</key>
+			<string>Use Custom Background</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>isDarkBase</string>
+			<key>label</key>
+			<string>Dark Mode</string>
+			<key>id</key>
+			<string>DARK_BASE</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Custom Background Color</string>
+		</dict>
+		
+		 <dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>isContinuous</key>
+			<true/>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0</real>
+			<key>min</key>
+			<real>0</real>
+			<key>max</key>
+			<real>1</real>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>red</string>
+			<key>label</key>
+			<string>Red</string>
+			<key>id</key>
+			<string>RED</string>
+			
+		</dict>
+		
+		 <dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>isContinuous</key>
+			<true/>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0</real>
+			<key>min</key>
+			<real>0</real>
+			<key>max</key>
+			<real>1</real>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>green</string>
+			<key>label</key>
+			<string>Green</string>
+			<key>id</key>
+			<string>GREEN</string>
+			
+		</dict>
+		
+		 <dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>isContinuous</key>
+			<true/>
+			 
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0</real>
+			<key>min</key>
+			<real>0</real>
+			<key>max</key>
+			<real>1</real>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>blue</string>
+			<key>label</key>
+			<string>Blue</string>
+			<key>id</key>
+			<string>BLUE</string>
+			
+		</dict>
+		
+		 <dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>isContinuous</key>
+			<true/>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0</real>
+			<key>min</key>
+			<real>0</real>
+			<key>max</key>
+			<real>1</real>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>alpha</string>
+			<key>label</key>
+			<string>Alpha</string>
+			<key>id</key>
+			<string>ALPHA</string>
+
+		</dict>
+		
+		 
+		
+	</array>
+	<key>title</key>
+	<string>Custom Background</string>
+</dict>
+</plist>

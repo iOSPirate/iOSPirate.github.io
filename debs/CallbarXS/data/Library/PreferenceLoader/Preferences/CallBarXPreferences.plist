@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CallBarXPreferences;
+	cell = PSLinkCell;
+	detail = CallBarXPreferencesListController;
+	icon = CallBarXPreferences.png;
+	isController = 1;
+	label = "CallBar XS";
+    };
+}

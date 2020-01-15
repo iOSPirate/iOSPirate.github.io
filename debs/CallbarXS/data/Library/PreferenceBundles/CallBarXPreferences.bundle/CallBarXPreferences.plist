@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>label</key>
+			<string>User Guide</string>
+			<key>detail</key>
+			<string>CallBarXUserGuideController</string>
+			
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Appearance</string>
+			<key>footerText</key>
+			<string>Minimal Look is not available when Concept 13 Style is active.</string>
+			
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>4</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>CallBarXStyleListItemsController</string>
+			<key>key</key>
+			<string>viewStyle</string>
+			<key>label</key>
+			<string>Global View Style</string>
+			<key>id</key>
+			<string>CALLBARX_STYLE</string>
+			<key>validTitles</key>
+			<array>
+				<string>Concept 13 Dark Glass</string>
+				<string>Concept 13 Light Glass</string>
+				<string>Concept 13 Solid Black</string>
+				<string>Concept 13 Solid White</string>
+				<string>Dark Glass</string>
+				<string>Light Glass </string>
+				<string>Solid Black</string>
+				<string>Solid White</string>
+				<string>Concept X (Curved)</string>
+				<string>Concept X (Flat)</string>
+				<string>Concept X (Curved,Zooming)</string>
+				<string>Concept X (Flat,Zooming)</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>8</integer>
+				<integer>9</integer>
+				<integer>5</integer>
+				<integer>4</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>6</integer>			
+				<integer>7</integer>			
+				<integer>2</integer>			
+				<integer>3</integer>			
+				<integer>12</integer>			
+				<integer>13</integer>			
+			</array>
+		</dict>
+		
+		 
+		
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>1</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>isTop</string>
+			<key>label</key>
+			<string>Global Appearance</string>
+			<key>id</key>
+			<string>CALLBARX_POSITION</string>
+			<key>validTitles</key>
+			<array>
+				<string>From Top</string>
+				<string>From Bottom</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>			
+				<integer>0</integer>			
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>useAtLockScreen</string>
+			<key>label</key>
+			<string>Use at LockScreen</string>
+			<key>id</key>
+			<string>USE_AT_LOCKSCREEN</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>-1</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>CallBarXStyleListItemsController</string>
+			<key>key</key>
+			<string>lockscreenViewStyle</string>
+			<key>label</key>
+			<string>LockScreen View Style</string>
+			<key>id</key>
+			<string>CALLBARX_LOCKSTYLE</string>
+			<key>validTitles</key>
+			<array>
+				<string>Same as Global</string>
+				<string>Concept 13 Dark Glass</string>
+				<string>Concept 13 Light Glass</string>
+				<string>Concept 13 Solid Black</string>
+				<string>Concept 13 Solid White</string>
+				<string>Dark Glass</string>
+				<string>Light Glass </string>
+				<string>Solid Black</string>
+				<string>Solid White</string>
+				<string>Concept X (Curved)</string>
+				<string>Concept X (Flat)</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>-1</integer>
+				<integer>8</integer>
+				<integer>9</integer>
+				<integer>5</integer>
+				<integer>4</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>6</integer>			
+				<integer>7</integer>			
+				<integer>2</integer>			
+				<integer>3</integer>			
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>-1</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>lockScreenTop</string>
+			<key>label</key>
+			<string>Lockscreen Appearance</string>
+			<key>id</key>
+			<string>CALLBARX_LOCKSCREENPOSITION</string>
+			<key>validTitles</key>
+			<array>
+				<string>Same as Global</string>
+				<string>From Top</string>
+				<string>From Bottom</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>-1</integer>
+				<integer>1</integer>			
+				<integer>0</integer>			
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>useAppSpecificButtonColors</string>
+			<key>label</key>
+			<string>Use App-Specific buttons</string>
+		</dict>
+		
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>allowMarquee</string>
+			<key>label</key>
+			<string>Scroll Long Names</string>
+		</dict>
+		
+		
+		 <dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>audioControlsAlwaysExpanded</string>
+			<key>label</key>
+			<string>Audio Controls Always Expanded</string>
+		</dict>
+		
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>isMinimalLookForIncoming</string>
+			<key>label</key>
+			<string>Minimal Look (Incoming Calls)</string>
+			<key>id</key>
+			<string>MINIMAL_LOOK</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Extra Customisation</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>label</key>
+			<string>CallBar Background Color</string>
+			<key>detail</key>
+			<string>CallBarXSColorPickerController</string>
+		</dict>
+		
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Call Handling</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>useForOutgoingCalls</string>
+			<key>label</key>
+			<string>Use for Outgoing Calls</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>useForFacetimeVideo</string>
+			<key>label</key>
+			<string>Use for FaceTime Video</string>
+		</dict>
+		
+		
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>allowLockWhileInCall</string>
+			<key>label</key>
+			<string>Allow Lock UI During Call</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>exitPhoneAppOnCall</string>
+			<key>label</key>
+			<string>Exit Phone.app When Dialing</string>
+		</dict>
+		
+		
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Dialer Settings</string>
+			<key>footerText</key>
+			<string>You can use an activation method to bring up CallBar X dialer interface and quickly make calls from anywhere.</string>
+		</dict>
+		
+		
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>showVoiceMailButton</string>
+			<key>label</key>
+			<string>VoiceMail Button in Dialer</string>
+		</dict>
+		<dict>
+            <key>activatorListener</key>
+            <string>CallBarX Dialer</string>
+            <key>bundle</key>
+            <string>LibActivator</string>
+            <key>cell</key>
+            <string>PSLinkCell</string>
+            <key>isController</key>
+            <true/>
+            <key>label</key>
+            <string>Activator Methods</string>
+            <key>id</key>
+            <string>ACTIVATOR</string>
+        </dict>
+        
+		<dict>
+            <key>cell</key>
+            <string>PSLinkListCell</string>
+            <key>label</key>
+            <string>Activation Methods</string>
+            <key>id</key>
+            <string>NATIVE_ACTIVATION</string>
+            <key>detail</key>
+            <string>CallBarXNativeActivationController</string>
+        </dict>
+        
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Miscellaneous</string>
+		</dict>
+		
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>vibrateOnAnswer</string>
+			<key>label</key>
+			<string>Vibrate on Answer (Outgoing)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>vibrateOnAnswerIncoming</string>
+			<key>label</key>
+			<string>Vibrate on Answer (Incoming)</string>
+		</dict>
+ 
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>touch3DToNativeUI</string>
+			<key>label</key>
+			<string>3D Touch Expands Native UI</string>
+			<key>id</key>
+			<string>FORCETOUCH</string>
+		</dict>
+		
+		
+		 
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		
+		<dict>
+            <key>cell</key>
+            <string>PSButtonCell</string>
+            <key>label</key>
+            <string>Your Payment Information</string>
+            <key>id</key>
+            <string>PAYMENT_INFO</string>
+            <key>action</key>
+            <string>openPaymentInfo:</string>
+            <key>alignment</key>
+            <integer>2</integer>
+        </dict>
+		
+			
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+            <key>cell</key>
+            <string>PSLinkListCell</string>
+            <key>label</key>
+            <string>More iOS 12/13 Tweaks By Limneos</string>
+            <key>id</key>
+            <string>OTHER_TWEAKS</string>
+            <key>detail</key>
+            <string>CallBarXOtherTweaksController</string>
+        </dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>&#169;2019 @limneos</string>	
+			<key>footerAlignment</key>
+			<integer>1</integer>	
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSTitleCell</string>
+			<key>label</key>
+			<string>CallBar XS - iOS 12/13</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cellClass</key>
+			<string>CallBarCreditsCell</string>
+						
+		</dict>
+		
+		
+	
+		
+	</array>
+	<key>title</key>
+	<string>CallBar XS</string>
+</dict>
+</plist>
