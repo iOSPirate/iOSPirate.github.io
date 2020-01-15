@@ -58,3 +58,18 @@ Description: Lyricify (Cracked) for iOS 11-13
 Author: iOSPirate
 Name: Lyricify (Cracked)
 
+Package: com.pulandres.noctis13
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/NoctisNeo.deb
+Size: 67990
+MD5sum: 297ea4061010948ed639f9647339ada5
+SHA1: cbd8cddd7568fb7b937c11e50ceb38683f0c90bb
+SHA256: eab360e4b06f05ba81ed8449c0637e39655149a765e793fa9de57a0382642b8a
+Section: Tweaks
+Description: Noctis Neo (Cracked) for iOS 11-13
+Author: iOSPirate
+Name: Noctis Neo (Cracked)
+
