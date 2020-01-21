@@ -54,7 +54,7 @@ MD5sum: ea2fe637d1b680f28b04e76d26e8d9f1
 SHA1: dd34b43f2c96e401163d2e401138bb958fca46f4
 SHA256: 0d1eb94ff1a4b0fa16cd8ab3a94194521ddd81c316f265671d1c9b0448e1d12d
 Section: Tweaks
-Description: Lyricify (Cracked) for iOS 11-13
+Description: Lyricify (Cracked) for iOS 12-13
 Author: iOSPirate
 Name: Lyricify (Cracked)
 
@@ -69,7 +69,7 @@ MD5sum: 297ea4061010948ed639f9647339ada5
 SHA1: cbd8cddd7568fb7b937c11e50ceb38683f0c90bb
 SHA256: eab360e4b06f05ba81ed8449c0637e39655149a765e793fa9de57a0382642b8a
 Section: Tweaks
-Description: Noctis Neo (Cracked) for iOS 11-13
+Description: Noctis Neo (Cracked) for iOS 13 only
 Author: iOSPirate
 Name: Noctis Neo (Cracked)
 
@@ -144,7 +144,7 @@ MD5sum: ded48dc4aa11dc1d8766104fd7e018d7
 SHA1: 438fed7bc73c7042c10ea567abf071bcccbd46ba
 SHA256: 89b8a48f612a642a69264e34cf5c38b82c627ca10f42212638e2cd1a94e18e9e
 Section: Tweaks
-Description: Eclipse12 Darkmode (Cracked) for iOS 12 only
+Description: Eclipse12 Dark Mode (Cracked) for iOS 12 only
 Author: iOSPirate
 Name: Eclipse12 (Cracked)
 
@@ -204,8 +204,23 @@ MD5sum: 5a0ca28346a10b80b0543c96726398b9
 SHA1: 18e0b2570224e39ce4896de1f1d9306d3bfc4a14
 SHA256: 3fdc68175ff9d5042d14749e7243a3beed3e86c7a0b6ede5f185b755dba460ce
 Section: Tweaks
-Description: Boxy 3 (Cracked) for iOS 13
+Description: Boxy 4 (Cracked) for iOS 13
 Author: iOSPirate
 Name: Boxy 4 (Cracked)
+
+Package: com.pulandres.magmaevo
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: iOSPirate
+Depends: sedfix
+Filename: /debs/MagmaEvo.deb
+Size: 130944
+MD5sum: 41824f4e184c33eba13ab88a1d3d49e6
+SHA1: 3de6af122fb6fe4720490a7b8a1553b7d3bda044
+SHA256: 7419ec31f5cf9c082126883a690036bd008fef2eaa300aea4f1df81183862400
+Section: Tweaks
+Description: Magma Evo (Cracked) for iOS 13
+Author: iOSPirate
+Name: Magma Evo (Cracked)
 
 
